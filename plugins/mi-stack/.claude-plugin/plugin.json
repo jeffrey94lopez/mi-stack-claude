@@ -1,0 +1,10 @@
+{
+  "name": "mi-stack",
+  "version": "0.1.0",
+  "description": "Mi flujo de trabajo con Claude Code: fases, puerta de seguridad y arranque de proyectos",
+  "author": {
+    "name": "jeffreymartinezhn"
+  },
+  "repository": "https://github.com/jeffrey94lopez/mi-stack-claude",
+  "keywords": ["workflow", "seguridad", "supabase", "vercel"]
+}

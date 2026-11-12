@@ -1,0 +1,18 @@
+{
+  "name": "mi-stack-claude",
+  "owner": {
+    "name": "jeffreymartinezhn"
+  },
+  "metadata": {
+    "description": "Mi flujo de trabajo con Claude Code: skills propias y entorno",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "mi-stack",
+      "source": "./plugins/mi-stack",
+      "description": "Flujo de trabajo, puerta de seguridad y arranque de proyectos nuevos",
+      "version": "0.1.0"
+    }
+  ]
+}
